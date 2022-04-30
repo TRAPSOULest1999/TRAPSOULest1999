@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/TRAPSOULest1999/TRAPSOULest1999/blob/main/1500x500.jpg?raw=true)]
+![MasterHead](https://github.com/TRAPSOULest1999/TRAPSOULest1999/blob/main/1500x500.jpg?raw=true)
 <h1 align="center">Hi there 👋🏿, I'm Neo (The One👽)</h1>
 <h3 align="center">A future hall of fame software developer from South Africa</h3>
 
