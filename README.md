@@ -1,14 +1,14 @@
 ![MasterHead](https://github.com/TRAPSOULest1999/TRAPSOULest1999/blob/main/1500x500.jpg?raw=true)
 <h1 align="center">Hi there 👋🏿, I'm Neo (The One👽)</h1>
-<h3 align="center">A future hall of fame software developer from South Africa</h3>
+<h3 align="center">A future hall of fame software development engineer from South Africa</h3>
 
-- 🔭 I’m currently working on a **Product landing page.**
+- 🔭 I’m currently working on a **My portfolio web page**
 
-- 🌱 I’m currently learning **.NET, angular, linux, and a lil javascript on the side.**
+- 🌱 I’m currently learning **ASP.NET and other Microsoft technologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TRAPSOULest1999](https://github.com/TRAPSOULest1999)
 
-- 💬 Ask me about **blockchain, cloud technology, software engineering...pick my brain about anything tech.**
+- 💬 Ask me about **blockchain, cloud technology, and software engineering. Just pick my brain...**
 
 - 📫 Connect with me on LinkedIn **https://www.linkedin.com/in/neo-leope-566464156/**
 
