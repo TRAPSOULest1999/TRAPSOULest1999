@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **blockchain, cloud technology, and software engineering. Just pick my brain...**
 
-- 📫 Connect with me on LinkedIn **https://www.linkedin.com/in/neo-leope-566464156/**
+- 📫 Connect with me on LinkedIn **https://www.linkedin.com/in/neo-leope-hons-566464156/**
 
 - 📄 Resume available on demand
 
