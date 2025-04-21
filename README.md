@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/neo-leope-566464156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neo-leope-566464156" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/neo-leope-hons-566464156/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neo-leope-566464156" height="30" width="40" /></a>
 <a href="https://bio.link/matrixneo" target="blank"><img align="center" src="https://www.svgrepo.com/show/286903/link-ui.svg" alt="bio.link" height="30" width="40" /></a>
 <a href="https://www.codewars.com/users/Trapsoul.est99" target="blank"><img align="center" src="https://img.icons8.com/?size=100&id=bsDrp6QDOOnQ&format=png&color=000000" alt="codewars" height="30" width="40" /></a>
  
